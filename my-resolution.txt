@@ -1,0 +1,5 @@
+My resulution:
+- Belajar git & github
+- Belajar Nodejs
+- Belajar Reactjs
+- Belajar Expressjs
