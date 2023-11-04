@@ -3,3 +3,5 @@ My resulution:
 - Belajar Nodejs
 - Belajar Reactjs
 - Belajar Expressjs
+- Belajar Golang
+- Belajar Java
