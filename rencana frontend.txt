@@ -3,5 +3,5 @@ rencana belajar frontend:
 - css
 - js
 - node-js
-- react-js
+- angular
 - vue-js
