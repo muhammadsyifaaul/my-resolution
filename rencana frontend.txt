@@ -1,0 +1,7 @@
+rencana belajar frontend:
+- html
+- css
+- js
+- node-js
+- react-js
+- vue-js
